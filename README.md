@@ -29,8 +29,8 @@ documentation/
  │    └── deploy-ec2/
  │         ├── create-runner-step-1.md
  │         ├── create-action-step-2.md
- │         └── java/
- │              └── java-action.md
+ │     └── java/
+ │         └── java-action.md
  ├── Nginx/
  │    └── config.md
  └── README.md
